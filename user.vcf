@@ -7,7 +7,7 @@ ORG:Good Robot Media;
 TITLE:Chief Disruptor
 EMAIL;type=INTERNET;type=WORK;type=pref:john@goodrobotmedia.com
 TEL;type=WORK;type=VOICE:+1 504-430-4656
-item1.ADR;type=WORK;type=pref:;;327 N. New Hamshire Street \n Covington\, LA;;;70433;USA
+item1.ADR;type=WORK;type=pref:;;327 N. New Hamshire Street \nCovington\, LA;;;70433;USA
 item1.X-ABADR:sg
 item2.URL;type=pref:goodrobotmedia.com
 item2.X-ABLabel:_$!<HomePage>!$_
